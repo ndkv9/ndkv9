@@ -7,6 +7,7 @@
 <br/>
 
 ### Personal Stuffs
+<br/>
 
 - 🤔 My interests are with Natural Computer Science, Smart Things, Web Technologies, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
@@ -16,14 +17,21 @@
 
 ### 👨‍💻 Languages and Tools
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+[![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+[![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+[![Jest](https://img.shields.io/badge/-Jest-red?style=flat&logo=Jest&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
+[![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+
 
 ### 💬 Get in touch 
 <a href="https://www.linkedin.com/in/ndkv9/">
