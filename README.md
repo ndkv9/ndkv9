@@ -4,10 +4,8 @@
 
 Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **Software Engineering student** 🚀 from Finland.
 <br/>
+<br/>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br/>
-<br/>
-
 **PERSONAL STUFFS:**
 <br/>
 - 🤔 My interests are with Natural Computer Science, Smart Things, Web Technologies, etc..;
@@ -19,6 +17,7 @@ Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **So
 <br/>
 
 🔭 **MY STACK AND TOOLS**
+<br/>
 <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -34,6 +33,7 @@ Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **So
 <br/>
 
 :coffee: **GET IN TOUCH** 
+<br/>
 <br/>
 <a href="https://www.linkedin.com/in/ndkv9/">
   <img align="left" alt="my LinkdeIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
