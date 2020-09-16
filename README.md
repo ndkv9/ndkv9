@@ -4,10 +4,8 @@
 ### Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **Software Engineering student** 🚀 from Finland.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br/>
 
 ### Personal Stuffs
-<br/>
 
 - 🤔 My interests are with Natural Computer Science, Smart Things, Web Technologies, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
@@ -32,17 +30,14 @@
 [![Jest](https://img.shields.io/badge/-Jest-red?style=flat&logo=Jest&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
 [![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 
+### Reach out to me 👓
 
-### 💬 Get in touch 
-<a href="https://www.linkedin.com/in/ndkv9/">
-  <img align="left" alt="my LinkdeIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
-</a>
-<a href="https://dev.to/ndkv9">
-  <img align="left" alt="dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
-</a>
-<a href="https://twitter.com/ndkv101">
-  <img align="left" alt="my Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" />
-</a>
+|                                                                                                                                                                                                        <a href="https://github.com/ndkv101"><img src="https://www.flaticon.com/svg/static/icons/svg/843/843280.svg" width="100px" height="100px" /></a>                                                                                                                                                                                                        |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                                                                                             **Vu Nguyen**                                                                                                                                                                                                                                                              |
+| <a href="https://twitter.com/ndkv101"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" width="20px" height="20px"></a> <a href="https://www.linkedin.com/in/ndkv9"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" width="20px" height="20px"></a> <a href="https://dev.to/ndkv9"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="20px" height="20px"></a> |
+
+
 
 
 
