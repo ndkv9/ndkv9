@@ -1,19 +1,19 @@
 
 # 👋, HELLO WORLD!
 
-### Hi there, I'm **Vu Nguyen**, a **Front-end Developer** 👨🏽‍💻 from Finland.
+### Hi there, I'm **Vu Nguyen**, a **Front-end Developer** from Finland.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Personal Stuffs
+### Personal Stuffs 🤔
 
-- 🤔 My interests are with Web Technologies, Computer Science, Smart Things, etc..;
+- 👨🏽‍💻My interests are with Web Technologies, Computer Science, Smart Things, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via vu.nguyen101@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1DkKh6ErKLpp9X9gbJP6ZsHrkBQ6KLi8J/view?usp=sharing) to get more info.
 
-### 👨‍💻 Languages and Tools
+### Languages and Tools 👨‍💻
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
@@ -37,21 +37,6 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                                                             **NDKV101**                                                                                                                                                                                                                                                              |
 | <a href="https://twitter.com/ndkv101"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" width="20px" height="20px"></a> <a href="https://www.linkedin.com/in/ndkv9"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" width="20px" height="20px"></a> <a href="https://dev.to/ndkv9"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="20px" height="20px"></a> |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
