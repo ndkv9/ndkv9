@@ -1,12 +1,11 @@
 
 # 👋, HELLO WORLD!
-<br>
 
-Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **Software Engineering student** 🚀 from Finland.
-<br/>
-<br/>
+### Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **Software Engineering student** 🚀 from Finland.
+
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-**PERSONAL STUFFS:**
+
+### Personal Stuffs
 <br/>
 - 🤔 My interests are with Natural Computer Science, Smart Things, Web Technologies, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
@@ -14,26 +13,18 @@ Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **So
 - 📫 Please email via vu.nguyen101@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1DkKh6ErKLpp9X9gbJP6ZsHrkBQ6KLi8J/view?usp=sharing) to get more info.
 <br/>
+### 👨‍💻 Languages and Tools
 <br/>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
-🔭 **MY STACK AND TOOLS**
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 <br/>
-<br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"></code>
-<code><img height="20" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png"></code>
-<code><img height="20" src="https://iconape.com/wp-content/files/ja/89479/png/postman.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br/>
-<br/>
-
-:coffee: **GET IN TOUCH** 
-<br/>
+### 💬 Get in touch 
 <br/>
 <a href="https://www.linkedin.com/in/ndkv9/">
   <img align="left" alt="my LinkdeIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
