@@ -1,7 +1,7 @@
 
 # 👋, HELLO WORLD!
 
-### Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻 from Finland.
+### Hi there, I'm **Vu Nguyen**, a **Front-end Developer** 👨🏽‍💻 from Finland.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -24,6 +24,7 @@
 [![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+[![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=Heroku&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 [![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm&link=https://github.com/ndkv101)](https://github.com/ndkv101)
@@ -34,7 +35,7 @@
 
 |                                                                                                                                                                                                        <a href="https://github.com/ndkv101"><img src="https://www.flaticon.com/svg/static/icons/svg/843/843280.svg" width="100px" height="100px" /></a>                                                                                                                                                                                                        |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                             **Vu Nguyen**                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                             **NDKV101**                                                                                                                                                                                                                                                              |
 | <a href="https://twitter.com/ndkv101"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" width="20px" height="20px"></a> <a href="https://www.linkedin.com/in/ndkv9"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" width="20px" height="20px"></a> <a href="https://dev.to/ndkv9"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="20px" height="20px"></a> |
 
 
