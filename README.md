@@ -1,13 +1,15 @@
 
 # 👋, HELLO WORLD!
 <br>
+
 Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **Software Engineering student** 🚀 from Finland.
 <br/>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br/>
 <br/>
-**PERSONAL STUFFS:**
 
+**PERSONAL STUFFS:**
+<br/>
 - 🤔 My interests are with Natural Computer Science, Smart Things, Web Technologies, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
@@ -17,7 +19,6 @@ Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **So
 <br/>
 
 🔭 **MY STACK AND TOOLS**
-<br/>
 <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -29,9 +30,11 @@ Hi there, I'm **Vu Nguyen**, a **Web-app Developer** 👨🏽‍💻, and a **So
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br/>
+<br/>
 
-
-**GET IN TOUCH** :coffee:
+:coffee: **GET IN TOUCH** 
+<br/>
 <a href="https://www.linkedin.com/in/ndkv9/">
   <img align="left" alt="my LinkdeIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
