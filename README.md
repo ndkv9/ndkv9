@@ -30,6 +30,7 @@
 [![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 [![Jest](https://img.shields.io/badge/-Jest-red?style=flat&logo=Jest&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
 [![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&link=https://github.com/ndkv101)](https://github.com/ndkv101)
+[![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=Cypress&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 
 ### Reach out to me 👓
 
