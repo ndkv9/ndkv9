@@ -7,15 +7,15 @@
 
 ### Personal Stuffs 🤔
 
-- 👨🏽‍💻My interests are with Web Technologies, Computer Science, Smart Things, etc..;
+- 👨🏽‍💻My interests are with Web Technologies, Computer Science, Cyber Security, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via vu.nguyen101@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/12BnXTklYmL0r5FH8VLr-2xlZnsL6fUzd/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/11AfI9yhza7Dg2VJkDg15EFfxK1UXz0pw/view) to get more info.
 
 ### Languages and Tools 👨‍💻
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/ndkv101)](https://github.com/ndkv101) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/ndkv101)](https://github.com/ndkv101)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB&link=https://github.com/ndkv101)](https://github.com/ndkv101)
