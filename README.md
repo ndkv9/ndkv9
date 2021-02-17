@@ -1,7 +1,7 @@
 
 # 👋, HELLO WORLD!
 
-### Hi there, I'm **Vu Nguyen**, a **Front-end Developer** from Finland.
+### Hi there, I'm **Vu Nguyen**, a **Software Developer** from Finland.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
