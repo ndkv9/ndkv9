@@ -1,7 +1,7 @@
 
 # 👋, HELLO WORLD!
 
-### Hi there, I'm **Vu Nguyen**, a **Software Developer** from Finland.
+### Hi there, I'm **Erik Vu Nguyen**, a **Software Developer** from Finland.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -36,7 +36,7 @@
 
 ### Reach out to me 👓
 
-|                                                                                                                                                                                                        <a href="https://github.com/ndkv9"><img src="https://www.flaticon.com/svg/static/icons/svg/843/843280.svg" width="100px" height="100px" /></a>                                                                                                                                                                                                        |
+|                                                                                                                                                                                                        <a href="https://github.com/ndkv9"><img src="https://i.imgur.com/SO42RqC.jpg" width="100px" height="100px" /></a>                                                                                                                                                                                                        |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                                                             **NDKV9**                                                                                                                                                                                                                                                              |
 | <a href="https://twitter.com/ndkv101"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" width="20px" height="20px"></a> <a href="https://www.linkedin.com/in/ndkv9"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" width="20px" height="20px"></a> <a href="https://dev.to/ndkv9"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="20px" height="20px"></a> |
