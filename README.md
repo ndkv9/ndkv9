@@ -27,12 +27,12 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&color=E10098&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Jest](https://img.shields.io/badge/-Jest-red?style=flat&logo=Jest&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat&logo=Cypress&link=https://github.com/ndkv9)](https://github.com/ndkv9)
+[![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap&color=purple&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=Heroku&link=https://github.com/ndkv9)](https://github.com/ndkv9)
-[![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Webpack](https://img.shields.io/badge/-Webpack-181717?style=flat&logo=webpack&color=grey&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 ### Reach out to me 👓
 
