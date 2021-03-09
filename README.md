@@ -20,6 +20,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap&color=purple&link=https://github.com/ndkv9)](https://github.com/ndkv9)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&color=purple&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&link=https://github.com/ndkv9)](https://github.com/ndkv9)
