@@ -14,7 +14,6 @@
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/11AfI9yhza7Dg2VJkDg15EFfxK1UXz0pw/view) to get more info.
 
 ### Languages and Tools 👨‍💻
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
@@ -35,7 +34,6 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=Heroku&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Webpack](https://img.shields.io/badge/-Webpack-181717?style=flat&logo=webpack&color=grey&link=https://github.com/ndkv9)](https://github.com/ndkv9)
-
 ### Reach out to me 👓
 
 |                                                                                                                                                                                                        <a href="https://github.com/ndkv9"><img src="https://i.imgur.com/SO42RqC.jpg" width="90px" height="120px" /></a>                                                                                                                                                                                                        |
