@@ -11,7 +11,7 @@
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via vu.nguyen101@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/11AfI9yhza7Dg2VJkDg15EFfxK1UXz0pw/view) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Hpupx56I4yDCo6Zq3-zqivkPpPEkXYbV/view?usp=sharing) to get more info.
 
 ### Languages and Tools 👨‍💻
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
