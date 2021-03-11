@@ -13,7 +13,7 @@
 - 📫 Please email via vu.nguyen101@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Hpupx56I4yDCo6Zq3-zqivkPpPEkXYbV/view?usp=sharing) to get more info.
 
-### Languages and Tools 👨‍💻
+### Technologies and Tools 👨‍💻
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
