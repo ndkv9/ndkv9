@@ -35,6 +35,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=Heroku&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Webpack](https://img.shields.io/badge/-Webpack-181717?style=flat&logo=webpack&color=grey&link=https://github.com/ndkv9)](https://github.com/ndkv9)
+[![Netlify](https://img.shields.io/badge/-Netlify-181717?style=flat&logo=netlify&color=grey&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 ### Reach out to me 👓
 
 |                                                                                                                                                                                                        <a href="https://github.com/ndkv9"><img src="https://i.imgur.com/SO42RqC.jpg" width="90px" height="120px" /></a>                                                                                                                                                                                                        |
