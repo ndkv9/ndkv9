@@ -20,7 +20,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm&link=https://github.com/ndkv9)](https://github.com/ndkv9)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat&logo=gatsby&link=https://github.com/ndkv9)](https://github.com/ndkv9)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-violet?style=flat&logo=gatsby&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/ndkv9)](https://github.com/ndkv9)
 [![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&link=https://github.com/ndkv9)](https://github.com/ndkv9)
