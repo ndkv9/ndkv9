@@ -8,10 +8,8 @@
 ### Personal Stuffs 🤔
 
 - 👨🏽‍💻My interests are with Web Technologies, Computer Science, Cyber Security, etc..;
-- 💼 I’m pursuing a career in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via vu.nguyen101@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Hpupx56I4yDCo6Zq3-zqivkPpPEkXYbV/view?usp=sharing) to get more info.
 
 ### Technologies and Tools 👨‍💻
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ndkv9)](https://github.com/ndkv9) 
