@@ -8,7 +8,7 @@
 ### Personal Stuffs 🤔
 
 - 👨🏽‍💻I make web things and specialize in React, Node/Epxress;
-- 👨🏽‍💻My interests are with Web Technologies, Clouding Computer, Cyber Security, etc..;
+- ⚡My interests are with Web Technologies, Clouding Computer, Cyber Security, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via vu.nguyen101@gmail.com to reach me.
 
