@@ -1,7 +1,7 @@
 
 # 👋, HELLO WORLD!
 
-### Hi there, I'm **Vu Nguyen**, a **Full-stack Developer**
+### Hi there, I'm **Vu Nguyen**, a **Cybermancer**<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
