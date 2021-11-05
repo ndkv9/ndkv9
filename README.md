@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="vertical-align:middle;margin:0px 50px">
 
-<h3 align="left"><b>✨About me✨</b></h3>
+<h3 align="left"><b>About me</b></h3>
 
 - 👨🏽‍💻I make web things and specialize in React, Node/Epxress
 
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h3><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="tools"/>Technologies and Tools<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="tools"/></h3>
+<h3>Technologies and Tools</h3>
 <div style="display: inline-flex">
   <div>
   
@@ -47,13 +47,16 @@
   <div>
     <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ndkv9&theme=react&show_icons=true&include_all_commits=true" />
     <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndkv9&theme=react&layout=compact" />
+    <img height= "110" src="https://little.kylerconway.com/images/golang-what.gif" />
   </div>
 </div>
 <hr/>
-
-### Reach out to me 👓
-  
-|                                                                                                                                                                                                        <a href="https://github.com/ndkv9"><img src="https://i.imgur.com/cqIiOxe.png" width="90px" height="120px" /></a>                                                                                                                                                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                             **NDKV9**                                                                                                                                                                                                                                                              |
-| <a href="https://twitter.com/ndkv101"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" width="20px" height="20px"></a> <a href="https://www.linkedin.com/in/ndkv9"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" width="20px" height="20px"></a> <a href="https://dev.to/ndkv9"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="20px" height="20px"></a> |
+<h3>Reach out to me</h3>
+<img src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" align="right" width="350px" height="250px">
+<br>
+<p align="center"><a href="https://www.linkedin.com/in/ndkv9/" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/vunguyen%20-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+<p align="center"><a href="https://github.com/ndkv9" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/ndkv9%20-%23313335.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/ndkv101" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/ndkv101%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
+<p align="center"><a href="https://dev.to/ndkv9" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/ndkv9%20-%23313335.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/></a></p>
+</div>
+<br>
