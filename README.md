@@ -47,13 +47,11 @@
   <div>
     <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ndkv9&theme=react&show_icons=true&include_all_commits=true" />
     <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndkv9&theme=react&layout=compact" />
-    <img height= "110" src="https://little.kylerconway.com/images/golang-what.gif" />
   </div>
 </div>
 <hr/>
 <h3>Reach out to me</h3>
-<img src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" align="right" width="350px" height="250px">
-<br>
+<img height= "350" src="https://little.kylerconway.com/images/golang-what.gif" />
 <p align="center"><a href="https://www.linkedin.com/in/ndkv9/" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/vunguyen%20-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 <p align="center"><a href="https://github.com/ndkv9" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/ndkv9%20-%23313335.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p>
 <p align="center"><a href="https://twitter.com/ndkv101" target="_blank"><img width="150px" height="40px" src="https://img.shields.io/badge/ndkv101%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
