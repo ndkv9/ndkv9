@@ -1,4 +1,4 @@
-
+<img src="https://komarev.com/ghpvc/?username=ndkv9&label=Profile%20views&color=ff7f50&style=flat" alt="ndkv9" />
 <h1 align="center">HELLO WORLD!</h1>
 <h3 align="center">I'm Vu Nguyen, a Cybermancer<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
@@ -45,6 +45,7 @@
   
   </div>
   <div>
+    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ndkv9&theme=react&show_icons=true&include_all_commits=true" />
     <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndkv9&theme=react&layout=compact" />
   </div>
 </div>
