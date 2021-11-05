@@ -17,7 +17,7 @@
 
 <hr>
 
-### Technologies and Tools 👨‍💻
+<h3><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="tools"/>Technologies and Tools<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="tools"/></h3>
 <div style="display: inline-flex">
   <div>
   
