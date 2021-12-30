@@ -7,7 +7,7 @@
 
 <h3 align="left"><b>About me</b></h3>
 
-- 👨🏽‍💻I'm a software engineer who specializes in React, Node/Epxress
+- 👨🏽‍💻I'm a software developer who specializes in React, Node/Epxress
 
 - ⚡Currently focus on studying Test Automation, Docker, Python and Go
 
