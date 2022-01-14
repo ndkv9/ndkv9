@@ -44,10 +44,6 @@
 [![Netlify](https://img.shields.io/badge/-Netlify-181717?style=flat&logo=netlify&color=grey&link=https://github.com/ndkv9)](https://github.com/ndkv9)
   
   </div>
-  <div>
-    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ndkv9&theme=react&show_icons=true&include_all_commits=true" />
-    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndkv9&layout=compact&theme=dark" />
-  </div>
 </div>
 <hr/>
 <h3>Reach out to me</h3>
