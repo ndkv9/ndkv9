@@ -45,6 +45,11 @@
   
   </div>
 </div>
+<a href="https://github.com/jstrieb/github-stats">
+
+[![Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndkv9&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  
+</a>
 <hr/>
 <h3>Reach out to me</h3>
 <img align="right" height= "250" src="https://little.kylerconway.com/images/golang-what.gif" />
