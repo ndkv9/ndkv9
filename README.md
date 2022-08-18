@@ -9,8 +9,7 @@
 
 - 👨🏽‍💻I'm a software developer who specializes in React, Node/Epxress
 
-- ⚡Currently focus on DevOps, .NET , and Automation
-
+- ⚡Currently focusing on .NET and C#
 - 💬 Ask me about anything, I am happy to help
 
 - 📫 Please email via vu.nguyen101@gmail.com to reach me
